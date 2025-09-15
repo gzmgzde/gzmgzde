@@ -57,7 +57,8 @@ A **Flutter app** for tracking daily activities with a clean, intuitive interfac
 ---
 ## 👀 Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/gzmgzde/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gzmgzde.gzmgzde)
+
 
 ## 🎮 Play Tic-Tac-Toe
 
