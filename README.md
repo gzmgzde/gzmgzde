@@ -55,3 +55,10 @@ A **Flutter app** for tracking daily activities with a clean, intuitive interfac
 </p>
 
 ---
+## 👀 Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/gzmgzde/count.svg)
+
+## 🎮 Play Tic-Tac-Toe
+
+![Tic-Tac-Toe](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/resources/tic-tac-toe.svg)
