@@ -47,6 +47,8 @@ A **Flutter app** for tracking daily activities with a clean, intuitive interfac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmgzde&layout=compact&theme=radical" />
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gzmgzde)
+
 ---
 
 ## 📫 Connect with Me
@@ -57,9 +59,8 @@ A **Flutter app** for tracking daily activities with a clean, intuitive interfac
 ---
 ## 👀 Visitors
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gzmgzde.gzmgzde)
+<p align="right">
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gzmgzde.gzmgzde)
+</p>
 
 
-## 🎮 Play Tic-Tac-Toe
-
-![Tic-Tac-Toe](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/resources/tic-tac-toe.svg)
