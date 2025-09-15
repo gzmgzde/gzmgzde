@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 ---
 ## 🚀 About Me
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5bDExa29pb29idTdmMTQ4ZmZ0ZnEzeHRtOXZkY3NpZ3VseWlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="250" align="right" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5bDExa29pb29idTdmMTQ4ZmZ0ZnEzeHRtOXZkY3NpZ3VseWlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="200" align="right" />
 
 - 🏫 Computer Science student at the University of Westminster  
 - 💻 Experienced in **Java, Python, Swift, JavaScript**  
