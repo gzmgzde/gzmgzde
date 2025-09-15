@@ -1,26 +1,18 @@
 # 👋 Hi, I'm Gizem
-<p align="right">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-</p>
 
 Welcome to my GitHub! I'm a **Computer Science student at the University of Westminster** passionate about **AI, AR, mobile & web development**, and building **accessible, user-friendly apps**.  
 
 ---
-<div style="display:flex; align-items:center;">
-
-<div style="flex:1;">
 ## 🚀 About Me
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5bDExa29pb29idTdmMTQ4ZmZ0ZnEzeHRtOXZkY3NpZ3VseWlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="150" align="right" />
+
 - 🏫 Computer Science student at the University of Westminster  
 - 💻 Experienced in **Java, Python, Swift, JavaScript**  
 - 🌱 Exploring **AI/ML**, **AR apps**, and **accessible UI/UX design**  
 - 🏎️ President of the **Motorsports Society**  
-</div>
 
-<div style="margin-left:20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5bDExa29pb29idTdmMTQ4ZmZ0ZnEzeHRtOXZkY3NpZ3VseWlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="150"/>
-</div>
 
-</div>
 ---
 
 ## 🔧 Technologies & Tools
