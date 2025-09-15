@@ -1,18 +1,26 @@
 # 👋 Hi, I'm Gizem
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
 </p>
 
 Welcome to my GitHub! I'm a **Computer Science student at the University of Westminster** passionate about **AI, AR, mobile & web development**, and building **accessible, user-friendly apps**.  
 
 ---
-
+<table>
+  <tr>
+    <td>
 ## 🚀 About Me
 - 🏫 Computer Science student at the University of Westminster  
 - 💻 Experienced in **Java, Python, Swift, JavaScript**  
 - 🌱 Exploring **AI/ML**, **AR apps**, and **accessible UI/UX design**  
 - 🏎️ President of the **Motorsports Society** 
 
+</td>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5bDExa29pb29idTdmMTQ4ZmZ0ZnEzeHRtOXZkY3NpZ3VseWlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🔧 Technologies & Tools
@@ -60,7 +68,5 @@ A **Flutter app** for tracking daily activities with a clean, intuitive interfac
 ---
 ## 👀 Visitors
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gzmgzde.gzmgzde)
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" />
-</p>
+
 
