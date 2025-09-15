@@ -1,7 +1,19 @@
 # 👋 Hi, I'm Gizem
+![Confetti](https://github.com/gzmgzde/gzmgzde/raw/output/github-contribution-grid-snake.svg)
+
 
 Welcome to my GitHub! I'm a **Computer Science student at the University of Westminster** passionate about **AI, AR, mobile & web development**, and building **accessible, user-friendly apps**.  
+<p align="center">
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/3o6ZsYFzL9UvkgAq6A/giphy.gif" width="150" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gzmgzde&style=flat-square&color=brightgreen" />
+  <img src="https://img.shields.io/badge/Code%20Lover-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge&logo=heart" />
+  <img src="https://img.shields.io/badge/Motivated-%F0%9F%9A%80-orange?style=for-the-badge" />
+</p>
 ---
 
 ## 🚀 About Me
@@ -47,8 +59,6 @@ A **Flutter app** for tracking daily activities with a clean, intuitive interfac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmgzde&layout=compact&theme=radical" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gzmgzde)
-
 ---
 
 ## 📫 Connect with Me
@@ -58,9 +68,6 @@ A **Flutter app** for tracking daily activities with a clean, intuitive interfac
 
 ---
 ## 👀 Visitors
-
-<p align="right">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gzmgzde.gzmgzde)
-</p>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gzmgzde.gzmgzde)
 
 
