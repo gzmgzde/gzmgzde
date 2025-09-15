@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 
 ## 🚀 About Me
 - 🏫 Computer Science student at the University of Westminster  
-- 💻 Experienced in **Java, Django, Flutter, JavaScript**  
+- 💻 Experienced in **Java, Python, Swift, JavaScript**  
 - 🌱 Exploring **AI/ML**, **AR apps**, and **accessible UI/UX design**  
 - 🏎️ President of the **Motorsports Society** 
 
