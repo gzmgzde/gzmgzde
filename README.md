@@ -31,22 +31,9 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 
 ## 📈 GitHub Stats
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gzmgzde&show_icons=true&theme=dark&count_private=true" 
-    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); transition: transform 0.3s, box-shadow 0.3s;" 
-    onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.7)';" 
-    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmgzde&layout=compact&theme=dark" 
-    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); transition: transform 0.3s, box-shadow 0.3s;" 
-    onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.7)';" 
-    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gzmgzde&show_icons=true&theme=dracula&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmgzde&layout=compact&theme=dracula" />
 </div>
-
-
-
 
 ---
 
