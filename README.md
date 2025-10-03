@@ -27,20 +27,6 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 
 ---
 
-## 📚 Projects
-### [BookStore REST API](https://github.com/gzmgzde/BookStore-Rest-API---Java-Coursework)
-A **RESTful API** with JAX-RS, in-memory database, JSON, and full CRUD operations.  
-
-### [Sky Staff Health Check](https://github.com/gzmgzde/SKY_STAFFHEALTH_CHECK)
-A **web-based team health tracker** with **AI chatbot integration** and **accessible UI/UX design**.  
-
-### [LOOP Mobile Application](https://github.com/gzmgzde/LOOP-Mobile-Application)
-A **Flutter app** for tracking daily activities with a clean, intuitive interface.  
-
-> 💡 Click the project names to explore them!
-
----
-
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gzmgzde&show_icons=true&theme=radical&count_private=true" />
