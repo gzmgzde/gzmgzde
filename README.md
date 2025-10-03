@@ -22,19 +22,18 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=gzmgzde&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmgzde&layout=compact&theme=radical" />
-</p>
+</div>
 
 ---
 
