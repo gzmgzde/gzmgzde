@@ -30,9 +30,9 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 ---
 
 ## 📈 GitHub Stats
-<div style="display: flex; gap: 20; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gzmgzde&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmgzde&layout=compact&theme=radical" />
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gzmgzde&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzmgzde&layout=compact&theme=tokyonight" />
 </div>
 
 ---
