@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 
 <img  src="https://media1.tenor.com/m/2P5PYp9Fmn8AAAAd/weird-hello.gif" width="150" align="right" />
 <p> &nbsp;</p>
-<p> &nbsp;</p>
 
 - 🏫 Computer Science student at the University of Westminster  
 - 💻 Experienced in **Java, Python, Swift, JavaScript**  
