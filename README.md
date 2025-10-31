@@ -4,8 +4,7 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 
 ---
 ## 🚀 About Me
-
-<img src="https://tenor.com/sNdjj7qgmrb.gif" />
+<div class="tenor-gif-embed" data-postid="15636022241274468991" data-share-method="host" data-aspect-ratio="0.955823" data-width="100%"><a href="https://tenor.com/view/weird-hello-marcus-the-worm-marcus-gif-15636022241274468991">Weird Hello GIF</a>from <a href="https://tenor.com/search/weird-gifs">Weird GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🏫 Computer Science student at the University of Westminster  
 - 💻 Experienced in **Java, Python, Swift, JavaScript**  
