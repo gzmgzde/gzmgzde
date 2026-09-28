@@ -1,11 +1,11 @@
+
 # 👋 Hi, I'm Gizem
 
 Welcome to my GitHub! I'm a **Computer Science student at the University of Westminster** passionate about **AI, AR, mobile & web development**, and building **accessible, user-friendly apps**.  
 
 ---
 ## 🚀 About Me
-
-<img  src="https://64.media.tumblr.com/ab68cd879643bf2f4bb7753a0fbb6631/ddc09f8bd36ea038-8d/s540x810/54758c984b2972886f94169617b8e00021eb3452.gifv" width="150" align="right" />
+<img width="150" align = "right" alt="tumblr_ab68cd879643bf2f4bb7753a0fbb6631_54758c98_540" src="https://github.com/user-attachments/assets/ca955a62-6b0e-4f6f-a199-c395891c60e6" />
 <p> &nbsp;</p>
 
 - 🏫 Computer Science student at the University of Westminster  
