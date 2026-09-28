@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Computer Science student at the University of West
 ---
 ## 🚀 About Me
 
-<img  src="https://i.gifer.com/9SV.gif" width="150" align="right" />
+<img  src="https://i.gifer.com/9SV.gif](https://64.media.tumblr.com/ab68cd879643bf2f4bb7753a0fbb6631/ddc09f8bd36ea038-8d/s540x810/54758c984b2972886f94169617b8e00021eb3452.gifv" width="150" align="right" />
 <p> &nbsp;</p>
 
 - 🏫 Computer Science student at the University of Westminster  
