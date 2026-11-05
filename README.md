@@ -9,7 +9,7 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 Currently, I'm focused on developing my own iOS applications and growing my skills in the Apple ecosystem.
 <table>
   <tr>
-    <td width="75%" valign="middle">
+    <td width="65%" valign="middle">
       <h3>A little more about me:</h3>
       <ul>
         <li>📱 Building iOS applications with <b>Swift and Xcode</b></li>
@@ -18,9 +18,10 @@ Currently, I'm focused on developing my own iOS applications and growing my skil
         <li>🎨 Passionate about <b>accessible UI/UX and user-centred design</b></li>
         <li>🏎️ Former President of the <b>Motorsports Society</b></li>
         <li>💼 I love 'The Office".</b></li>
+        <p> </p>
       </ul>
     </td>
-    <td width="45%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <img width="280" alt="Gizem" src="https://github.com/user-attachments/assets/ca955a62-6b0e-4f6f-a199-c395891c60e6" />
     </td>
   </tr>
