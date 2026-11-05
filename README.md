@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gizem!
+# 👋 Hi, I'm Gizem!
 
 ## 👩🏻‍💻 About Me
 
@@ -68,7 +68,7 @@ Currently, I'm focused on developing my own iOS applications and growing my skil
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/gizem-aydin-999981276">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -78,14 +78,6 @@ Currently, I'm focused on developing my own iOS applications and growing my skil
 
 ## 👀 Visitors
 
-<p align="center">
+<p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gzmgzde.gzmgzde" />
-</p>
-
-<p align="center">
-  <i>Building ideas into experiences, one app at a time. ✨</i>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:65E4CF&height=110&section=footer" />
 </p>
