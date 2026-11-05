@@ -8,19 +8,24 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 
 Currently, I'm focused on developing my own iOS applications and growing my skills in the Apple ecosystem.
 
-**A little more about me:**
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>A little more about me:</h3>
+      <ul>
+        <li>📱 Building iOS applications with <b>Swift and Xcode</b></li>
+        <li>💻 Background in <b>Java, Python, JavaScript and Flutter</b></li>
+        <li>🧠 Interested in <b>AI, Machine Learning and Augmented Reality</b></li>
+        <li>🎨 Passionate about <b>accessible UI/UX and user-centred design</b></li>
+        <li>🏎️ Former President of the <b>Motorsports Society</b></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img width="280" alt="Gizem" src="https://github.com/user-attachments/assets/ca955a62-6b0e-4f6f-a199-c395891c60e6" />
+    </td>
+  </tr>
+</table>
 
-- 📱 Building iOS applications with **Swift and Xcode**
-- 💻 Background in **Java, Python, JavaScript and Flutter**
-- 🧠 Interested in **AI, Machine Learning and Augmented Reality**
-- 🎨 Passionate about **accessible UI/UX and user-centred design**
-- 🏎️ Former President of the **Motorsports Society**
-
-<img width="280" align="right" alt="Gizem" src="https://github.com/user-attachments/assets/ca955a62-6b0e-4f6f-a199-c395891c60e6" />
-
-<br clear="right"/>
-
----
 
 ## 🚀 What I'm Building
 
